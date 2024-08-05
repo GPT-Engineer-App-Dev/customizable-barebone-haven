@@ -11,7 +11,7 @@ const Index = () => {
         <h1 className="text-2xl font-bold">My Application</h1>
       </header>
 
-      <main className="flex-grow container mx-auto px-4 py-8">
+      <main className="flex-grow container mx-auto px-4 py-8 bg-red-500">
         <h2 className="text-xl font-semibold mb-4">Welcome to Your Bare-Bones App</h2>
         <p className="mb-4">This is a simple starting point. Feel free to modify and expand!</p>
         
